@@ -64,18 +64,6 @@ matlab.addons.install('MinGW Support Package')
 | TC-03 | Lane keeping response to road curves | ✅ Passed |
 | TC-04 | Obstacle detection & collision avoidance | ✅ Passed |
 
-## 📌 Troubleshooting
-**Error:** `Supported compiler not found`
-- Ensure MinGW-w64 or Microsoft Visual Studio C++ is installed.
-- Manually set compiler path:
-```matlab
-setenv('MW_MINGW64_LOC', 'C:\ProgramData\MATLAB\SupportPackages\mingw_w64')
-```
-- Restart MATLAB and run:
-```matlab
-mex -setup C++
-```
-
 ## 📞 Contact
 For any queries or contributions, feel free to reach out:
 📧 Email: ahmedmohsen-209@hotmail.com
