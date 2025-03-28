@@ -78,6 +78,6 @@ mex -setup C++
 
 ## 📞 Contact
 For any queries or contributions, feel free to reach out:
-📧 Email: your_email@example.com
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧 Email: ahmedmohsen-209@hotmail.com
+💼 LinkedIn: (https://linkedin.com/in/ahmed-mohsen-abouelyazed)
 
